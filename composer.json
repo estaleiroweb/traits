@@ -1,0 +1,18 @@
+{
+    "name": "estaleiroweb/traits",
+    "description": "PHP Traits used in others projects of EstaleiroWeb",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Estaleiroweb\\Traits\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "estaleiroweb",
+            "email": "helbert@estaleiroweb.com.br"
+        }
+    ],
+    "require": {}
+}
