@@ -2,6 +2,7 @@
     "name": "estaleiroweb/traits",
     "description": "PHP Traits used in others projects of EstaleiroWeb",
     "type": "library",
+	"version": "1.0.0",
     "license": "MIT",
     "authors": [
         {
