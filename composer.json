@@ -15,7 +15,7 @@
 	},
     "autoload": {
         "psr-4": {
-            "Estaleiroweb\\Traits\\": "src/"
+            "EstaleiroWeb\\Traits\\": "src/"
         }
     }
 }
