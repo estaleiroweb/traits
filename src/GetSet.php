@@ -10,12 +10,12 @@ trait GetSet {
 	 * Variaveis resgataveis
 	 * @var array
 	 */
-	protected $readonly = [];
+	//protected $readonly = [];
 	/**
 	 * Variaveis resgataveis
 	 * @var array
 	 */
-	protected $protect = [];
+	//protected $protect = [];
 	/**
 	 * Retorna o valor da variavel sobrecarregada
 	 * Implemente os métodos geteres caso queira um melhor encapsulamento
