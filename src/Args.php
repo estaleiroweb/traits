@@ -72,7 +72,6 @@ trait Args {
 			foreach ($out as $k => $v) {
 				if ($v !== false || $v === $arr[$k]) $this->$k = $v;
 			}
-			var_dump($out);
 		}
 		return $this;
 	}
